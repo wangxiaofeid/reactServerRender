@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "name": "routes",
+  "main": "./routes.server.js",
+  "browser": "./routes.client.js"
+}

@@ -1,0 +1,2 @@
+webpackJsonp([3],{472:function(n,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),t.d(e,"default",function(){return y});var r=t(109),u=t.n(r),o=t(63),i=t.n(o),c=t(108),a=t.n(c),l=t(107),s=t.n(l),f=t(106),p=t.n(f),d=t(6),_=t.n(d),y=function(n){function e(){return i()(this,e),s()(this,(e.__proto__||u()(e)).apply(this,arguments))}return p()(e,n),a()(e,[{key:"render",value:function(){return _.a.createElement("div",null,"PolicyHistory")}}]),e}(_.a.Component)}});
+//# sourceMappingURL=PolicyView.chunk.js.map
