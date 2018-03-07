@@ -1,4 +1,4 @@
-# reactServerRunder react服务端渲染next.js案例
+# reactServerRunder react服务端渲染案例（如果想用next.js版，切换到next.js分支）
 技术栈： express react mobx react-router
 
 
